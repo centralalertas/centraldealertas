@@ -1,0 +1,9 @@
+[30-Aug-2017 11:25:01 America/Chicago] PHP Warning:  require(app/webroot/index.php): failed to open stream: Permission denied in /home/centr645/public_html/index.php on line 49
+[30-Aug-2017 11:25:01 America/Chicago] PHP Warning:  require(app/webroot/index.php): failed to open stream: Permission denied in /home/centr645/public_html/index.php on line 49
+[30-Aug-2017 11:25:01 America/Chicago] PHP Fatal error:  require(): Failed opening required 'app/webroot/index.php' (include_path='.:/opt/php56/lib/php') in /home/centr645/public_html/index.php on line 49
+[30-Aug-2017 11:27:28 America/Chicago] PHP Warning:  require(app/webroot/index.php): failed to open stream: Permission denied in /home/centr645/public_html/index.php on line 49
+[30-Aug-2017 11:27:28 America/Chicago] PHP Warning:  require(app/webroot/index.php): failed to open stream: Permission denied in /home/centr645/public_html/index.php on line 49
+[30-Aug-2017 11:27:28 America/Chicago] PHP Fatal error:  require(): Failed opening required 'app/webroot/index.php' (include_path='.:/opt/php56/lib/php') in /home/centr645/public_html/index.php on line 49
+[30-Aug-2017 11:28:02 America/Chicago] PHP Warning:  include(/home/centr645/public_html/lib/Cake/bootstrap.php): failed to open stream: Permission denied in /home/centr645/public_html/app/webroot/index.php on line 104
+[30-Aug-2017 11:28:02 America/Chicago] PHP Warning:  include(): Failed opening '/home/centr645/public_html/lib/Cake/bootstrap.php' for inclusion (include_path='.:/opt/php56/lib/php') in /home/centr645/public_html/app/webroot/index.php on line 104
+[30-Aug-2017 11:28:02 America/Chicago] PHP Fatal error:  CakePHP core could not be found. Check the value of CAKE_CORE_INCLUDE_PATH in APP/webroot/index.php. It should point to the directory containing your /cake core directory and your /vendors root directory. in /home/centr645/public_html/app/webroot/index.php on line 109
